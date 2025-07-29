@@ -61,26 +61,27 @@ or run with Live Server in VS Code.
 
 focusflow/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── screenshots/
+
 └── README.md
 
 ##💡 Future Ideas
 
-*🌦️ Add weather widget (OpenWeatherMap API)
-
-*✅ Mark tasks as complete or editable
-
-*🔔 Sound notification when timer ends
-
-*🌙 Save theme preference across sessions
+-🌦️ Add weather widget (OpenWeatherMap API)
+-✅ Mark tasks as complete or editable
+-🔔 Sound notification when timer ends
+-🌙 Save theme preference across sessions
 
 ## 🙌 Credits
-*Google Fonts – Inter
+Google Fonts – Inter
 
 ## 📜 License
-*This project is open-source and free to use for learning or portfolio purposes.
+This project is open-source and free to use for learning or portfolio purposes.
 
 > Made with 💻 + ☕ by **muhammadumarqadri**  
 > Feel free to fork or share!
